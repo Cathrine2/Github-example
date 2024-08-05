@@ -1,0 +1,19 @@
+h1 {
+  color: blueviolet;
+  text-align: center;
+}
+.server {
+  text-align: center;
+  border-radius: 6px;
+}
+button {
+  background-color: lightblue;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 20px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
